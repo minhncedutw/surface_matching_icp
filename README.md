@@ -1,5 +1,6 @@
 # Surface Matching ICP
 > Match CAD model to Point Cloud scene to find grasping pose.
+> Reference [Opencv PPF-ICP](https://docs.opencv.org/3.0-beta/modules/surface_matching/doc/surface_matching.html)
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
