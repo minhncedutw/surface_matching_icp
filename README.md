@@ -69,7 +69,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-### Template from [Dan Bader](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
+## Template from [Dan Bader](https://dbader.org/blog/write-a-great-readme-for-your-github-project)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
