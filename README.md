@@ -1,12 +1,15 @@
 # Surface Matching ICP
 > Match CAD model to Point Cloud scene to find grasping pose.
-> Reference [Opencv PPF-ICP](https://docs.opencv.org/3.0-beta/modules/surface_matching/doc/surface_matching.html)
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
+
+## Reference Sources
+[Opencv PPF-ICP](https://docs.opencv.org/3.0-beta/modules/surface_matching/doc/surface_matching.html)
+[KojiKobayashi](https://github.com/KojiKobayashi/iterative_closest_point_2d/blob/master/src/Icp2d.py)
 
 ![](header.png)
 
